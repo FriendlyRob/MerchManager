@@ -1,0 +1,16 @@
+Git Commands help
+
+	// Basic status check
+git status
+
+	// Adding stuff
+git add Readme.txt
+	
+	// Add all
+git add .
+
+	// commit
+git commit -m “Add Readme.txt”
+
+	// final push
+git push
